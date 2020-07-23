@@ -11,4 +11,4 @@
 5. Logistic Regression=82.6
 6. Random Forest=90
 7. SVM=82.6
-### As we can here K Nearest Neighbors classifier gave the highest accuracy that is 90.6 %
+### As we can see here K Nearest Neighbors classifier gave the highest accuracy that is 90.6 %
